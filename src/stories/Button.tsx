@@ -3,11 +3,11 @@ import './button.css';
 
 interface ButtonProps {
   /**
-   * Is this the principal call to action on the page?
+   * 인터페이스에 주석을 작성하면
    */
   primary?: boolean;
   /**
-   * What background color to use
+   * 문서에 자동으로 설명이 뜬다!
    */
   backgroundColor?: string;
   /**
